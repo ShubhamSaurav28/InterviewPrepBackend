@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Domain\bin\Debug\net9.0\InterviewPrep.Domain.deps.json
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Domain\bin\Debug\net9.0\InterviewPrep.Domain.dll
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Domain\bin\Debug\net9.0\InterviewPrep.Domain.pdb
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Domain\obj\Debug\net9.0\InterviewPrep.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Domain\obj\Debug\net9.0\InterviewPrep.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Domain\obj\Debug\net9.0\InterviewPrep.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Domain\obj\Debug\net9.0\InterviewPrep.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Domain\obj\Debug\net9.0\InterviewPrep.Domain.dll
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Domain\obj\Debug\net9.0\refint\InterviewPrep.Domain.dll
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Domain\obj\Debug\net9.0\InterviewPrep.Domain.pdb
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Domain\obj\Debug\net9.0\ref\InterviewPrep.Domain.dll

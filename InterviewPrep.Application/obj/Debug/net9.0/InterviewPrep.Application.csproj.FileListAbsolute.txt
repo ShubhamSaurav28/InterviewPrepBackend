@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Application\bin\Debug\net9.0\InterviewPrep.Application.deps.json
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Application\bin\Debug\net9.0\InterviewPrep.Application.dll
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Application\bin\Debug\net9.0\InterviewPrep.Application.pdb
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Application\bin\Debug\net9.0\InterviewPrep.Domain.dll
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Application\bin\Debug\net9.0\InterviewPrep.Domain.pdb
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Application\obj\Debug\net9.0\InterviewPrep.Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Application\obj\Debug\net9.0\InterviewPrep.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Application\obj\Debug\net9.0\InterviewPrep.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Application\obj\Debug\net9.0\InterviewPrep.Application.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Application\obj\Debug\net9.0\InterviewPrep.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Application\obj\Debug\net9.0\Intervie.6B7CFE0D.Up2Date
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Application\obj\Debug\net9.0\InterviewPrep.Application.dll
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Application\obj\Debug\net9.0\refint\InterviewPrep.Application.dll
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Application\obj\Debug\net9.0\InterviewPrep.Application.pdb
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Application\obj\Debug\net9.0\ref\InterviewPrep.Application.dll
