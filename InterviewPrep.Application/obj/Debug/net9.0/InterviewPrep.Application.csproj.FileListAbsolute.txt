@@ -13,3 +13,4 @@ C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Application\obj\D
 C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Application\obj\Debug\net9.0\refint\InterviewPrep.Application.dll
 C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Application\obj\Debug\net9.0\InterviewPrep.Application.pdb
 C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Application\obj\Debug\net9.0\ref\InterviewPrep.Application.dll
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Application\obj\Debug\net9.0\InterviewPrep.Application.sourcelink.json

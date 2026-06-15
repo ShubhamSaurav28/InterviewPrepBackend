@@ -1,9 +1,11 @@
 using InterviewPrep.Infrastructure.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authorization;
 
 namespace InterviewPrep.Api.Controllers;
 
+[Authorize]
 [ApiController]
 [Route("api/[controller]")]
 public class CategoriesController : ControllerBase
@@ -28,6 +30,20 @@ public class CategoriesController : ControllerBase
     {
         var questions = await _context.Questions
             .Where(q => q.CategoryId == categoryId)
+            .ToListAsync();
+
+        return Ok(questions);
+    }
+
+    [HttpGet("{categoryId}/questions")]
+    public async Task<IActionResult> GetCategoryQuestions(
+        Guid categoryId)
+    {
+        var questions = await _context.Questions
+            .Where(q =>
+                q.CategoryId == categoryId
+                && !q.IsDeleted)
+            .OrderBy(q => q.CreatedAt)
             .ToListAsync();
 
         return Ok(questions);

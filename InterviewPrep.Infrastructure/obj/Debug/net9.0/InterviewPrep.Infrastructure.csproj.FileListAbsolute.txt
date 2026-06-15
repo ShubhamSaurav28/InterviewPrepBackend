@@ -17,3 +17,4 @@ C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Infrastructure\ob
 C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Infrastructure\obj\Debug\net9.0\InterviewPrep.Infrastructure.pdb
 C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Infrastructure\obj\Debug\net9.0\InterviewPrep.Infrastructure.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Infrastructure\obj\Debug\net9.0\ref\InterviewPrep.Infrastructure.dll
+C:\Users\Lenovo\Desktop\MY\InterviewPrep\Backend\InterviewPrep.Infrastructure\obj\Debug\net9.0\InterviewPrep.Infrastructure.sourcelink.json
