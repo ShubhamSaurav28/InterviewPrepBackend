@@ -3,6 +3,7 @@ using InterviewPrep.Infrastructure.Data;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using InterviewPrep.Application.DTOs.Users;
 
 namespace InterviewPrep.Api.Controllers;
 
@@ -41,6 +42,48 @@ public class UsersController : ControllerBase
             user.ExperienceLevel,
             user.Country,
             user.Timezone
+        });
+    }
+
+    [HttpPut("me")]
+    public async Task<IActionResult> UpdateMe(
+        UpdateProfileRequest request)
+    {
+        var userId =
+            User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+
+        if (userId == null)
+            return Unauthorized();
+
+        var user = await _context.Users
+            .FirstOrDefaultAsync(
+                x => x.Id.ToString() == userId);
+
+        if (user == null)
+            return NotFound();
+
+        user.Name =
+            request.Name ?? user.Name;
+
+        user.TargetRole =
+            request.TargetRole ?? user.TargetRole;
+
+        user.ExperienceLevel =
+            request.ExperienceLevel ?? user.ExperienceLevel;
+
+        user.Country =
+            request.Country;
+
+        user.Timezone =
+            request.Timezone;
+
+        user.UpdatedAt = DateTime.UtcNow;
+
+        await _context.SaveChangesAsync();
+
+        return Ok(new
+        {
+            message = "Profile updated successfully"
         });
     }
 }
